@@ -1,0 +1,3 @@
+{"_id":"1","fullName":"Full username 1","username":"user1","password":"user1","email":"user1@gmail.com","birthdate":{"$$date":675820800000},"height":1.86,"weight":80}
+{"_id":"2","fullName":"Full username 2","username":"user2","password":"user2","email":"user2@gmail.com","birthdate":{"$$date":826588800000},"height":1.6,"weight":60}
+{"_id":"3","fullName":"Linus Benedict Torvalds","username":"Linux4Life","password":"Linux4Life","email":"Linus@gmail.com","birthdate":{"$$date":-345600000},"height":1.73,"weight":73}

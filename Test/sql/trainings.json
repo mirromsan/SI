@@ -1,0 +1,4 @@
+{"_id":"1","idUser":"1","idSport":"1","start":{"$$date":1481496183615},"end":{"$$date":1481496183615},"calories":1,"distance":1}
+{"_id":"2","idUser":"1","idSport":"2","start":{"$$date":1481496183615},"end":{"$$date":1481496183615},"calories":2,"distance":2}
+{"_id":"3","idUser":"1","idSport":"3","start":{"$$date":1481496183615},"end":{"$$date":1481496183615},"calories":3,"distance":3}
+{"averageHeartRate":0,"calories":0,"distance":0,"start":"2016-12-11T22:49:14.023Z","end":"2016-12-11T22:49:18.787Z","_id":"6cDYsdVCv7hCONK3"}
