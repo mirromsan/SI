@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_rw7fYcbVEea08df-IK9r3Q" name="Rates" dataPackage="_rw8GcMbVEea08df-IK9r3Q" Server="Localhost 127.0.0.1" FilePath="C:/Users/Miriam/Desktop/semana3/ml-100k/u.data" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;\t&quot;" RowSeparatorValue="&quot;\n&quot;" FieldSeparatorType="Tabulation"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_rw8GcMbVEea08df-IK9r3Q" name="default" dataManager="_rw7fYcbVEea08df-IK9r3Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_rw8GccbVEea08df-IK9r3Q" id="_du5IAMbVEea08df-IK9r3Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rw8GcsbVEea08df-IK9r3Q" label="idUser" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rw8Gc8bVEea08df-IK9r3Q" label="idMovie" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rw8GdMbVEea08df-IK9r3Q" label="rating" length="1" talendType="id_Integer" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_rw8GdcbVEea08df-IK9r3Q" label="timeStamp" length="9" talendType="id_Integer" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
