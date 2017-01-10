@@ -9,8 +9,8 @@ import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SQLContext;
 
-public class TestSparkSQLMLlibRSALS {
-	private static final String URL = "jdbc:mysql://localhost:3306/peliculas";
+public class TestSparkSQLMLlibRSALS {/*
+	private static final String URL = "jdbc:mysql://localhost:3306/si_ejercicio1";
 	private static String TABLE = "data";
 
 	public static void main(String[] args) throws AnalysisException {
@@ -34,5 +34,5 @@ public class TestSparkSQLMLlibRSALS {
 		completa.write().jdbc(URL, TABLE + "ALS", properties);
 		ctx.stop();
 		ctx.close();
-	}
+	}*/
 }
